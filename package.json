@@ -19,5 +19,8 @@
     "@zanminkian/tsconfig": "workspace:^",
     "git-validator": "^0.9.0",
     "typescript": "^5.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/zanminkian/tsconfig/issues"
   }
 }
